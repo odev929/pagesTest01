@@ -13,3 +13,5 @@ fields:
       format: markdown
   label: page title 01
   hidden: false
+pages:
+- tttt.md
