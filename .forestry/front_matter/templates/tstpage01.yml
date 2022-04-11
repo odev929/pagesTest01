@@ -1,4 +1,13 @@
 ---
 label: tstpage01
 hide_body: false
-fields: []
+fields:
+- name: page_title_01
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: page title 01
